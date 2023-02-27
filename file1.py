@@ -1,0 +1,6 @@
+str1=input("enter the 1st statement to save into initial file = ")
+str2=input("enter the 2nd statement to save into initial file = ")
+str3=input("enter the 3rd statement to save into initial file = ")
+str4=input("enter the 4th statement to save into initial file = ")
+str5=input("enter the 5th statement to save into initial file = ")
+print("all 5 statements are saved in the file 1")
